@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ghost
+- 👋 Hello, I’m Lawrence
 - 👀 I’m interested in Software engineering
 - 🌱 I’m currently learning Javascript,C
 - 💞️ I’m looking to collaborate on future projects once I become quite versatile.
