@@ -1,7 +1,6 @@
 - 👋 Hello, I’m Lawrence
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning Javascript,C (2024)
-2025- Python & Java
+- 🌱 I’m currently learning Python & Java
 - 💞️ I’m looking to collaborate on future projects once I become quite versatile.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
