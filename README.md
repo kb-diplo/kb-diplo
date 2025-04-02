@@ -1,5 +1,5 @@
 # Hi, I'm Lawrence Mbugua  
-**Software Developer | Django **
+Software Developer | Django 
 
 ## Current Work
 - 🔭 **Project:** [Denkam Waters Billing System](https://github.com/kb-diplo/denkam-waters)  
@@ -21,7 +21,7 @@
 ## GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kb-diplo&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?kb-diplo=yourusername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kb-diplo&layout=compact&theme=dark)
 
 ## Contact
 📧 **Email:** tingzlarry@gmail.com  
