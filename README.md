@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Lawrence Mbugua
 
-## 💻 **Software Developer | Django | Tech nthusiast**
+## 💻 **Software Developer | Django | Tech Enthusiast**
  I am passionate about leveraging technology to create impactful solutions. Currently pursuing a Diploma in Information Technology at KCA University, I specialize in web development and backend systems. I enjoy building clean, functional and user-friendly applications while continuously improving my technical and problem-solving skills.
 
 ---
 
 ## 🔭 Current Work
 
-* 💧 **[Denkam Waters Billing System](https://github.com/kb-diplo/denkam-waters)**
- ## A Django-based water management system with automated billing, designed to streamline operations for water utilities.
+## * 💧 **[Denkam Waters Billing System](https://github.com/kb-diplo/denkam-waters)**
+  A Django-based water management system with automated billing, designed to streamline operations for water utilities.
 
 ---
 
