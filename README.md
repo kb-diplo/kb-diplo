@@ -24,13 +24,28 @@ Passionate about building impactful solutions through clean, scalable code and o
 `PostgreSQL` · `SQLite`
 
 **Tools & Platforms:**
-`Git` · `Postman` · 
+`Git` · `Postman` · `Docker`
+
+---
+
+## 📝 Experience & Skills Gained During Attachment
+
+During my industrial attachment, I gained hands-on experience in:
+
+* 🔌 **API Development:** Creating and testing REST APIs with Django REST Framework and Postman.
+* 🗄️ **Database Management:** Designing schemas, writing queries, and optimizing PostgreSQL databases.
+* 🐳 **Containerization:** Introduction to Docker for packaging and deploying applications.
+* 🔐 **Authentication:** Implementing secure user login and session management.
+* 📊 **Team Collaboration:** Using Git/GitHub for version control in a collaborative environment.
+* ⚡ **Problem-Solving:** Debugging, writing clean code, and applying software engineering best practices.
 
 ---
 
 ## 📊 GitHub Statistics
 
-\\
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kb-diplo\&show_icons=true\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kb-diplo\&layout=compact\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kb-diplo\&theme=radical)
 
 ---
 
@@ -49,4 +64,5 @@ Passionate about building impactful solutions through clean, scalable code and o
 ---
 
 ✨ *"Technology should empower, inspire, and transform communities."* ✨
+
 
