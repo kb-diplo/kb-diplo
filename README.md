@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lawrence Mbugua
 
-💻 **Software Developer | Django | Tech nthusiast**
-## I am passionate about leveraging technology to create impactful solutions. Currently pursuing a Diploma in Information Technology at KCA University, I specialize in web development and backend systems. I enjoy building clean, functional and user-friendly applications while continuously improving my technical and problem-solving skills.
+## 💻 **Software Developer | Django | Tech nthusiast**
+ I am passionate about leveraging technology to create impactful solutions. Currently pursuing a Diploma in Information Technology at KCA University, I specialize in web development and backend systems. I enjoy building clean, functional and user-friendly applications while continuously improving my technical and problem-solving skills.
 
 ---
 
