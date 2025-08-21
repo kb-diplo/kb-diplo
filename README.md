@@ -1,37 +1,52 @@
-# Hi, I'm Lawrence Mbugua  
-Software Developer | Django 
+# 👋 Hi, I'm Lawrence Mbugua
 
-## Current Work
-- 🔭 **Project:** [Denkam Waters Billing System](https://github.com/kb-diplo/denkam-waters)  
-  Django-based water management solution with automated billing
+💻 **Software Developer | Django Enthusiast | Tech Innovator**
+Passionate about building impactful solutions through clean, scalable code and open-source collaboration.
 
-## Technical Skills
-### Languages
-`Python` `JavaScript` `HTML/CSS` `SQL`
+---
 
-### Frameworks
-`Django` `Django REST Framework` `Bootstrap`
+## 🔭 Current Work
 
-### Databases
-`PostgreSQL` `SQLite`
+* 💧 **[Denkam Waters Billing System](https://github.com/kb-diplo/denkam-waters)**
+  A Django-based water management system with automated billing, designed to streamline operations for water utilities.
 
-### Tools
-`Git` `Postman` `Docker`
+---
 
-## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kb-diplo&show_icons=true&theme=dark)
+## 🛠️ Technical Skills
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kb-diplo&layout=compact&theme=dark)
+**Languages:**
+`Python` · `JavaScript` · `HTML/CSS` · `SQL`
 
-## Contact
-📧 **Email:** tingzlarry@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](# www.linkedin.com/in/mbugualawrence)
+**Frameworks & Libraries:**
+`Django` · `Django REST Framework` · `Bootstrap`
 
-## Certifications
-- Django Certification 
-- Python Developer 
+**Databases:**
+`PostgreSQL` · `SQLite`
 
-<!---
-kb-diplo/kb-diplo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Tools & Platforms:**
+`Git` · `Postman` · 
+
+---
+
+## 📊 GitHub Statistics
+
+\\
+
+---
+
+## 📫 Contact
+
+📧 **Email:** [tingzlarry@gmail.com](mailto:tingzlarry@gmail.com)
+🔗 **LinkedIn:** [linkedin.com/in/mbugualawrence](https://www.linkedin.com/in/mbugualawrence)
+
+---
+
+## 🎓 Certifications
+
+* ✅ Django Certification
+* ✅ Python Developer Certification
+
+---
+
+✨ *"Technology should empower, inspire, and transform communities."* ✨
+
