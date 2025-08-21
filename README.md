@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Lawrence Mbugua
 
 💻 **Software Developer | Django | Tech nthusiast**
-I am passionate about leveraging technology to create impactful solutions. Currently pursuing a Diploma in Information Technology at KCA University, I specialize in web development and backend systems. I enjoy building clean, functional and user-friendly applications while continuously improving my technical and problem-solving skills.
+## I am passionate about leveraging technology to create impactful solutions. Currently pursuing a Diploma in Information Technology at KCA University, I specialize in web development and backend systems. I enjoy building clean, functional and user-friendly applications while continuously improving my technical and problem-solving skills.
 
 ---
 
 ## 🔭 Current Work
 
 * 💧 **[Denkam Waters Billing System](https://github.com/kb-diplo/denkam-waters)**
-  A Django-based water management system with automated billing, designed to streamline operations for water utilities.
+ ## A Django-based water management system with automated billing, designed to streamline operations for water utilities.
 
 ---
 
@@ -46,7 +46,7 @@ I am passionate about leveraging technology to create impactful solutions. Curre
 
 ## 📫 Contact
 
-<p align="center">
+<p >
 📧 <a href="mailto:tingzlarry@gmail.com">tingzlarry@gmail.com</a>  
 🔗 <a href="https://www.linkedin.com/in/mbugualawrence">linkedin.com/in/mbugualawrence</a>
 </p>
@@ -55,14 +55,14 @@ I am passionate about leveraging technology to create impactful solutions. Curre
 
 ## 🎓 Certifications
 
-<p align="center">
+<p >
 ✅ Django Certification  
 ✅ Python Developer Certification
 </p>
 
 ---
 
-<p align="center">
+<p >
 ✨ <em>"Technology should empower, inspire, and transform communities."</em> ✨
 </p>
 
