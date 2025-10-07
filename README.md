@@ -70,16 +70,7 @@ A comprehensive Django-based water management system featuring:
 
 </div>
 
----
 
-## 💼 What I'm Working On
-
-- 🌱 Currently deepening my knowledge in **microservices architecture** and **cloud deployment**
-- 🔍 Exploring **DevOps practices** and **CI/CD pipelines**
-- 🤝 Open to collaborating on **open-source projects** and **innovative web applications**
-- 📚 Learning **Docker** and **containerization** for scalable deployments
-
----
 
 ## 📊 GitHub Statistics
 
@@ -95,16 +86,7 @@ A comprehensive Django-based water management system featuring:
   <img src="https://streak-stats.demolab.com/?user=kb-diplo&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
 
-## 🌟 Key Achievements
-
-- ✨ Developed two production-ready billing systems serving water utilities
-- 🚀 Implemented RESTful APIs with comprehensive Swagger documentation
-- 💡 Integrated third-party payment gateways for seamless transactions
-- 📈 Automated billing processes, reducing manual work by 70%
-
----
 
 ## 🎓 Certifications & Education
 
