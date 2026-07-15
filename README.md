@@ -130,12 +130,12 @@ I believe great software should be reliable, secure, intuitive, and deliver meas
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=kb-diplo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400"
+    src="https://github-stats-extended.vercel.app/api?username=kb-diplo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
     alt="Lawrence Mbugua GitHub Statistics"
   />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kb-diplo&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=kb-diplo&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
     alt="Lawrence Mbugua Most Used Languages"
   />
 </p>
