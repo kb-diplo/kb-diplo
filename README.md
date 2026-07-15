@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Lawrence Mbugua</h1>
-<h3 align="center">💻 Junior Software Developer | Django | C# | Angular | API Integrations</h3>
+<h3 align="center">💻 Software Developer | Django | PHP | API Integrations</h3>
 <p align="center">I am passionate about leveraging technology to create impactful solutions.<br>
 I specialize in <b>web development, backend systems, and API integrations</b>, building clean, functional, and user-friendly applications while continuously improving my technical and problem-solving skills.</p>
 
