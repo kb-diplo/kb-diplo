@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=kb-diplo&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img
+  src="https://komarev.com/ghpvc/?username=kb-diplo&color=2563EB&style=flat-square&label=Profile+Views"
+  alt="Profile Views"
+/>
 
 # Lawrence Mbugua
 
@@ -8,7 +11,7 @@
 
 Building reliable software, modern web applications, business systems, SaaS platforms, and API integrations.
 
-<strong>Available for Remote Opportunities Worldwide</strong>
+**Available for Remote Opportunities Worldwide**
 
 <p>
   <a href="https://mbugualawrence.pythonanywhere.com">
@@ -30,11 +33,11 @@ Building reliable software, modern web applications, business systems, SaaS plat
 
 I'm a Software Developer passionate about designing and building software that solves real-world problems.
 
-My work focuses on developing scalable web applications, business systems, SaaS platforms, REST APIs, and custom software solutions that help organizations improve efficiency and automate business processes.
+My experience spans custom web applications, business management systems, SaaS platforms, e-commerce solutions, REST APIs, and third-party integrations.
 
-I enjoy writing clean, maintainable code, designing scalable architectures, integrating third-party services, and continuously improving my software development skills through real-world projects.
+I enjoy transforming ideas into scalable, maintainable, and user-friendly software, integrating external services, designing reliable application architectures, and continuously improving my development practices through real-world projects.
 
-I believe great software should be reliable, secure, intuitive, and deliver measurable value to the people who use it.
+I believe great software should be reliable, secure, intuitive, maintainable, and deliver measurable value to the people who use it.
 
 ---
 
@@ -43,17 +46,17 @@ I believe great software should be reliable, secure, intuitive, and deliver meas
 - Custom Web Applications
 - Business Management Systems
 - SaaS Development
-- Utility and Billing Systems
+- Utility & Billing Systems
 - E-commerce Solutions
 - REST API Development
 - Third-Party API Integrations
-- Inventory and POS Systems
-- Authentication and Authorization
+- Inventory & POS Systems
+- Authentication & Authorization
 - Business Process Automation
-- Reporting and Analytics
-- Responsive User Interfaces
+- Reporting & Analytics
+- Responsive Web Applications
 - Payment Gateway Integration
-- Software Maintenance and Optimization
+- Software Maintenance & Optimization
 
 > Most professional work is developed for businesses and organizations, with a number of repositories remaining private.
 
@@ -72,11 +75,11 @@ I believe great software should be reliable, secure, intuitive, and deliver meas
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-### Frameworks and Technologies
+### Frameworks & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -110,51 +113,38 @@ I believe great software should be reliable, secure, intuitive, and deliver meas
 
 ## Core Competencies
 
-- Software Design and Development
+- Software Design & Development
 - Backend Development
 - Database Design
-- REST API Design and Integration
-- Authentication and Authorization
+- REST API Design & Integration
+- Authentication & Authorization
 - Secure Software Development
 - System Integration
 - Business Process Automation
-- Reporting and Analytics
+- Reporting & Analytics
 - Payment Gateway Integration
 - Performance Optimization
-- Deployment and Maintenance
+- Deployment & Maintenance
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api?username=kb-diplo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
-    alt="Lawrence Mbugua GitHub Statistics"
-  />
-  <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=kb-diplo&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-    alt="Lawrence Mbugua Most Used Languages"
-  />
-</p>
+## GitHub Activity
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=kb-diplo&theme=github-dark-blue&hide_border=true"
-    alt="Lawrence Mbugua Contribution Streak"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=kb-diplo&theme=github-dark&hide_border=true&area=true"
-    alt="Lawrence Mbugua GitHub Activity Graph"
+    alt="GitHub Contribution Activity"
   />
 </p>
 
-> GitHub statistics reflect public repositories only. Some professional projects are maintained in private repositories.
+> GitHub activity reflects public repository contributions. Some professional work is maintained in private repositories.
 
 ---
 
@@ -164,8 +154,8 @@ I believe great software should be reliable, secure, intuitive, and deliver meas
 - Scalable SaaS Architecture
 - Cloud Deployment
 - Modern Frontend Development
-- DevOps and CI/CD
-- Software Architecture and Design Patterns
+- DevOps & CI/CD
+- Software Architecture & Design Patterns
 
 ---
 
@@ -173,7 +163,7 @@ I believe great software should be reliable, secure, intuitive, and deliver meas
 
 <p align="center">
   <img
-    src="https://img.shields.io/badge/Available%20for%20Remote%20Opportunities-Worldwide-0A66C2?style=for-the-badge&logo=googleearth&logoColor=white"
+    src="https://img.shields.io/badge/Available%20for%20Remote%20Opportunities-Worldwide-2563EB?style=for-the-badge"
     alt="Available for Remote Opportunities Worldwide"
   />
 </p>
