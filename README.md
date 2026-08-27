@@ -15,13 +15,22 @@ Building reliable software, modern web applications, business systems, SaaS plat
 
 <p>
   <a href="https://mbugualawrence.pythonanywhere.com">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img
+      src="https://img.shields.io/badge/Portfolio-View%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
   <a href="https://www.linkedin.com/in/mbugualawrence">
-    <img src="https://img.shields.io/badge/LinkedIn-Lawrence%20Mbugua-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Lawrence%20Mbugua-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="mailto:tingzlarry@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 </p>
 
@@ -45,17 +54,15 @@ I believe great software should be reliable, secure, intuitive, maintainable, an
 
 - Custom Web Applications
 - Business Management Systems
-- SaaS Development
+- SaaS Platforms
 - Utility & Billing Systems
 - E-commerce Solutions
-- REST API Development
-- Third-Party API Integrations
 - Inventory & POS Systems
-- Authentication & Authorization
+- REST APIs & Third-Party Integrations
+- Payment Gateway Integrations
 - Business Process Automation
 - Reporting & Analytics
 - Responsive Web Applications
-- Payment Gateway Integration
 - Software Maintenance & Optimization
 
 > Most professional work is developed for businesses and organizations, with a number of repositories remaining private.
@@ -113,38 +120,34 @@ I believe great software should be reliable, secure, intuitive, maintainable, an
 
 ## Core Competencies
 
-- Software Design & Development
 - Backend Development
+- Software Design & Architecture
 - Database Design
 - REST API Design & Integration
 - Authentication & Authorization
 - Secure Software Development
 - System Integration
-- Business Process Automation
-- Reporting & Analytics
-- Payment Gateway Integration
 - Performance Optimization
 - Deployment & Maintenance
 
 ---
 
-## GitHub Activity
+## GitHub Analytics
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=kb-diplo&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Contribution Streak"
+    src="./profile/stats.svg"
+    height="180"
+    alt="Lawrence Mbugua GitHub Statistics"
   />
-</p>
-
-<p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kb-diplo&theme=github-dark&hide_border=true&area=true"
-    alt="GitHub Contribution Activity"
+    src="./profile/top-langs.svg"
+    height="180"
+    alt="Lawrence Mbugua Most Used Languages"
   />
 </p>
 
-> GitHub activity reflects public repository contributions. Some professional work is maintained in private repositories.
+> GitHub analytics reflect public repository activity. Some professional projects are maintained in private repositories.
 
 ---
 
@@ -161,16 +164,13 @@ I believe great software should be reliable, secure, intuitive, maintainable, an
 
 ## Global Availability
 
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Available%20for%20Remote%20Opportunities-Worldwide-2563EB?style=for-the-badge"
-    alt="Available for Remote Opportunities Worldwide"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  Open to software development roles, remote opportunities, technical collaborations, and selected freelance projects worldwide.
-</p>
+### Available for Remote Opportunities Worldwide
+
+Open to software development roles, remote opportunities, technical collaborations, and selected freelance projects worldwide.
+
+</div>
 
 ---
 
@@ -178,12 +178,21 @@ I believe great software should be reliable, secure, intuitive, maintainable, an
 
 <p align="center">
   <a href="https://mbugualawrence.pythonanywhere.com">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img
+      src="https://img.shields.io/badge/Portfolio-View%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
   <a href="https://www.linkedin.com/in/mbugualawrence">
-    <img src="https://img.shields.io/badge/LinkedIn-Lawrence%20Mbugua-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Lawrence%20Mbugua-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="mailto:tingzlarry@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 </p>
